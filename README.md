@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Zonatan Sihombing | Full-Stack Developer Extraordinaire
+# 🚀 [Your Name] | Full-Stack Developer Extraordinaire
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub followers](https://img.shields.io/github/followers/zonatan?label=Follow&style=social)](https://github.com/zonatan)
@@ -93,7 +93,7 @@ const aboutMe = {
   funFact: "Can debug production issues while eating lunch"
 };
 </div>
-⭐️ From zonatan | Turning coffee into code since [year]
+###⭐️ From zonatan | Turning coffee into code since [year]
 ### Key Features:
 1. **Dynamic Typing Animation** - Shows your roles in an eye-catching way
 2. **Badge Wall** - Organized skill categories with modern badges
@@ -111,6 +111,8 @@ const aboutMe = {
 - Consider adding a portfolio screenshot if you have one
 
 This design will make your profile stand out while maintaining complete professionalism!
+
+
 <!--
 **zonatan/zonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
