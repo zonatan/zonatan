@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=700&lines=Digital+Experience+Architect;Web+Alchemist;Pixel+Perfectionist;Code+Connoisseur" alt="Animated Typing" />
   
-  <img src="https://raw.githubusercontent.com/johndoe/johndoe/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+ <img src="https://raw.githubusercontent.com/zonatan/zonatan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
 </div>
 
 ## 🔮 Tech Stack Galaxy
