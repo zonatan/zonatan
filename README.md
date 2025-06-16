@@ -37,9 +37,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="60" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
 ###
