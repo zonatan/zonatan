@@ -1,129 +1,111 @@
-# 🚀 [Your Name] | Full-Stack Developer Extraordinaire
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub followers](https://img.shields.io/github/followers/zonatan?label=Follow&style=social)](https://github.com/zonatan)
-[![Visits Badge](https://komarev.com/ghpvc/?username=zonatan&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/zonatan)
+# 🚀 [Your Name] | Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Digital+Architect;Code+Artisan;Full-Stack+Virtuoso;Problem+Solvind+Maestro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=700&lines=Digital+Experience+Architect;Web+Alchemist;Pixel+Perfectionist;Code+Connoisseur" alt="Animated Typing" />
+  
+  ![Snake Animation](https://github.com/zonatan/zonatan/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-## 🔥 Technical Mastery
+## 🔮 Tech Stack Galaxy
 
-### 🌐 Web Development
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+### 🌌 Frontend Cosmos
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
 </div>
 
-### ⚙️ Backend & Frameworks
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+### ⚡ Backend Nebula
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
 </div>
 
-### 🗃️ Databases
-<div>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+### 🪐 Database Universe
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </div>
 
-### 🛠️ Development Tools
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+## 🛠️ Dev Tools & More
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-## 🏗️ Featured Projects
+## 🌟 Featured Projects
 
-### 💼 Professional Projects
-- **QR Attendance System** - Laravel-based attendance system with QR code scanning
-- **Library Management** - Complete OOP-based library system with PHP/MySQL
-- **Tourism Destination Manager** - Full-stack travel management system with React frontend
+<div align="center">
+  
+| Project | Description | Tech Stack | Demo |
+|---------|-------------|------------|------|
+| **QR Genius** | Next-gen attendance system | Next.js, NestJS, PostgreSQL | [Live Demo](https://) |
+| **LibraNex** | AI-powered library management | React, Node.js, MongoDB | [GitHub](https://) |
+| **Tourify** | AR tourism experience | React Native, Three.js | [App Store](https://) |
 
-### 🚀 Open Source Contributions
-- **[Project Name]** - Brief description of your contribution
-- **[Project Name]** - Impact of your contribution
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zonatan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonatan&layout=compact&langs_count=8&theme=radical"/>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zonatan&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)](https://github.com/zonatan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonatan&layout=compact&theme=nightowl&langs_count=8)](https://github.com/zonatan)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zonatan&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
+## 🎨 Design Showcase
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonatan&theme=radical" alt="zonatan" />
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@yourusername/0" alt="Recent Medium Article" width="400">
 </div>
 
-## 🎯 Professional Highlights
+## 🌐 Connect With Me
 
-✔️ Built **15+ production applications** across various domains  
-✔️ Expert in **full-stack development lifecycle** from concept to deployment  
-✔️ Strong **OOP principles** implementation in PHP and Java  
-✔️ Proven ability to **integrate complex systems** with multiple databases  
-✔️ Skilled in creating **responsive, accessible UI/UX** with modern frameworks  
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
-## 📬 Let's Collaborate
-
-💌 **Email**: your.email@domain.com  
-🔗 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
-💼 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
+## � Dev Card
 
 <div align="center">
   
 ```javascript
-const aboutMe = {
-  pronouns: "he" | "she" | "they",
-  code: ["JavaScript", "PHP", "Java", "HTML/CSS"],
-  frameworks: ["Laravel", "React", "Express", "Bootstrap"],
-  databases: ["MySQL", "MongoDB"],
-  architecture: ["OOP", "MVC", "REST APIs"],
-  currentFocus: "Building scalable full-stack applications",
-  funFact: "Can debug production issues while eating lunch"
+const devCard = {
+  name: "[Your Name]",
+  title: "Full-Stack Developer",
+  skills: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "NestJS", "GraphQL", "Laravel"],
+    devOps: ["Docker", "GitHub Actions", "Vercel"],
+    design: ["Figma", "Framer Motion", "Three.js"]
+  },
+  currentFocus: "Building immersive web experiences",
+  funFact: "Can recite 100 digits of π while debugging"
 };
 </div>
-###⭐️ From zonatan | Turning coffee into code since [year]
-### Key Features:
-1. **Dynamic Typing Animation** - Shows your roles in an eye-catching way
-2. **Badge Wall** - Organized skill categories with modern badges
-3. **Project Highlights** - Showcases your best work
-4. **Interactive Stats** - GitHub stats with streak counter
-5. **Code Block Profile** - Creative JavaScript object showing your skills
-6. **Mobile Responsive** - Looks great on all devices
-7. **Professional Tone** - Highlights your experience and capabilities
-
-### Customization Tips:
-- Replace all placeholder content with your actual information
-- Add your real project names and descriptions
-- Include links to your best repositories
-- Update the `aboutMe` object with your details
-- Consider adding a portfolio screenshot if you have one
-
-This design will make your profile stand out while maintaining complete professionalism!
-
-
-<!--
-**zonatan/zonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
