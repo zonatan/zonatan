@@ -52,7 +52,6 @@
 
 ###
 <h3 align="center">Connect With Me 🤜🏻</h3>
-###
 
 <div align="center">
   <a href="www.linkedin.com/in/zonatan" target="_blank">
