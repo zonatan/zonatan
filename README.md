@@ -1,68 +1,58 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- Kartu di README ini dibuat otomatis oleh .github/workflows/profile.yml (branch `output`). -->
 
-<h3 align="center">🚀 My Developer Stack Universe</h3>
+<a href="https://zonatanx.vercel.app">
+  <img src="https://raw.githubusercontent.com/zonatan/zonatan/output/header.svg" width="100%" alt="Zonatan Sihombing — Web Developer & Computer Vision" />
+</a>
 
-###
+<p align="center">
+  <a href="https://zonatanx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-zonatanx.vercel.app-c6ff3d?style=for-the-badge&labelColor=08070d&logo=vercel&logoColor=c6ff3d" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/zonatan/"><img src="https://img.shields.io/badge/LinkedIn-zonatan-a78bfa?style=for-the-badge&labelColor=08070d&logo=linkedin&logoColor=a78bfa" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/zonatansihombing_/"><img src="https://img.shields.io/badge/Instagram-zonatansihombing__-ff3d9a?style=for-the-badge&labelColor=08070d&logo=instagram&logoColor=ff3d9a" alt="Instagram" /></a>
+  <a href="mailto:zonatan.sh03@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-f1eefc?style=for-the-badge&labelColor=08070d&logo=gmail&logoColor=f1eefc" alt="Email" /></a>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-</div>
+## ▸ Player Profile
 
-###
+I am an Informatics Engineering student at **Universitas Negeri Manado (UNIMA)** with a primary interest in building practical, impactful software solutions. I have experience developing information systems with Laravel and Filament, building computer vision models with Python, and independently managing server deployment and security.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zonatan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=zonatan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+- 🎯 **Current mission:** **SIGER KAIROS** — a church information system with an AI assistant running on a local LLM (Ollama + Qwen 2.5, RAG), built for my undergraduate thesis
+- 🧠 **Exploring:** computer vision, local LLMs & retrieval-augmented generation
+- 💼 **Open to:** internships, freelance projects, and research collaborations
+- 📍 **Based in:** Manado, North Sulawesi, Indonesia
 
-###
+## ▸ Loadout
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zonatan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zonatan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,tailwind,nodejs,py,opencv,go,mysql,postgres,mongodb,prisma,linux,git&perline=9" alt="Tech stack" />
+</p>
 
-###
-<h3 align="center">Connect With Me 🤜🏻</h3>
+## ▸ Player Stats
 
-<div align="center">
-  <a href="www.linkedin.com/in/zonatan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/zonatansihombing_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/sihombingzonatan.zonatan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zonatan/zonatan/output/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/zonatan/zonatan/output/streak.svg" width="49%" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zonatan/zonatan/output/languages.svg" width="49%" alt="Top languages" />
+</p>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zonatan/zonatan/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zonatan/zonatan/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/zonatan/zonatan/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man eating my contribution graph" />
+</picture>
+
+## ▸ Featured Missions
+
+| Mission | Brief | Stack |
+|---|---|---|
+| [**portofolio-v2**](https://github.com/zonatan/portofolio-v2) · [live](https://zonatanx.vercel.app) | My HUD/game-themed portfolio with a Bug Hunter mini-game, online Hall of Fame, guestbook, and live GitHub stats | Next.js · TypeScript · Tailwind · Redis |
+| [**Rekomendasi-Jurusan**](https://github.com/zonatan/Rekomendasi-Jurusan) | AI-based college major recommendation from personality, interests, and skills using a Decision Tree | Python · HTML · CSS |
+| [**cineflix**](https://github.com/zonatan/cineflix) · [live](https://zocineflix.netlify.app/) | Movie search app on the TMDB API with filters, pagination, detail modal, and search history | React · Tailwind |
+| [**Absensi-dan-LMS-berbasis-Web**](https://github.com/zonatan/Absensi-dan-LMS-berbasis-Web) | Web-based LMS with automatic attendance via QR code | Laravel · PHP · Blade |
+| [**hand-tracking**](https://github.com/zonatan/hand-tracking) | Real-time hand tracking and gesture control from a webcam | Python · OpenCV · MediaPipe |
+| [**todo-api**](https://github.com/zonatan/todo-api) | A to-do REST API with a simple web client | Go · JavaScript |
+
+<p align="center">
+  <sub>Stats cards are generated by my own GitHub Action twice a day — no third-party stats service required.</sub>
+</p>
