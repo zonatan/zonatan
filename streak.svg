@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-label="GitHub streak">
+  
+  <style>
+    .beam { animation: beam 6s linear infinite; }
+    @keyframes beam { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -1420; } }
+    .row { animation: rise .6s cubic-bezier(.22,1,.36,1) backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
+    .grow { transform-box: fill-box; transform-origin: left center; animation: grow 1.1s cubic-bezier(.22,1,.36,1) backwards; }
+    @keyframes grow { from { transform: scaleX(0); } }
+    .blink { animation: blink 1.6s steps(2, start) infinite; }
+    @keyframes blink { 50% { opacity: .15; } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 50% { transform: scale(1.08); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#18152a"/>
+      <stop offset="1" stop-color="#100e1a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0" r="0.9">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="url(#panel)"/>
+  <path d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="url(#glow)"/>
+  <path d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="none" stroke="#5b3fb8" stroke-opacity="0.7"/>
+  <path class="beam" d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="none" stroke="#c6ff3d" stroke-width="1.5"
+        stroke-dasharray="90 1420" stroke-linecap="round"/>
+  <path d="M6 20 V6 H20" stroke="#c6ff3d" stroke-width="2" fill="none"/><path d="M474 20 V6 H460" stroke="#c6ff3d" stroke-width="2" fill="none"/>
+  <text x="24" y="34" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.4" fill="#c6ff3d" font-weight="700">STREAK</text>
+  <text x="456" y="34" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#847ea0">DAILY</text>
+  <path d="M24 46 H456" stroke="#5b3fb8" stroke-opacity="0.45"/>
+  <path d="M168 66 V204 M312 66 V204" stroke="#5b3fb8" stroke-opacity="0.45"/>
+  <g class="row" style="animation-delay:.15s">
+    <path d="M62.31 108.26L62.31 108.26L62.31 112.06L53.21 112.06L53.21 107.06Q53.21 104.15 54.95 102.38Q56.69 100.62 60.85 100.62L60.85 100.62L67.15 100.62Q71.31 100.62 73.10 102.38Q74.89 104.15 74.89 107.06L74.89 107.06L74.89 111.85Q74.89 114.55 73.98 116.42Q73.07 118.30 71.25 120.27L71.25 120.27L64.81 127.50L74.89 127.50L74.89 134L53.47 134L53.47 128.07L63.35 117.46Q64.91 115.80 65.43 114.66Q65.95 113.51 65.95 111.80L65.95 111.80L65.95 108.26Q65.95 107.69 65.64 107.40Q65.33 107.12 64.65 107.12L64.65 107.12L63.61 107.12Q62.93 107.12 62.62 107.40Q62.31 107.69 62.31 108.26ZM78.48 122.30L87.58 122.30L87.58 126.36Q87.58 126.93 87.89 127.21Q88.21 127.50 88.88 127.50L88.88 127.50L90.49 127.50Q91.17 127.50 91.48 127.21Q91.79 126.93 91.79 126.36L91.79 126.36L91.79 119.65Q91.79 119.08 91.48 118.79Q91.17 118.50 90.49 118.50L90.49 118.50L78.90 118.50L78.90 100.62L100.22 100.62L100.22 107.12L87.84 107.12L87.84 112.00L93.09 112.00Q97.25 112.00 99.00 113.77Q100.74 115.54 100.74 118.45L100.74 118.45L100.74 127.55Q100.74 130.46 99.00 132.23Q97.25 134 93.09 134L93.09 134L86.13 134Q81.97 134 80.22 132.23Q78.48 130.46 78.48 127.55L78.48 127.55L78.48 122.30ZM113.06 108.26L113.06 108.26L113.06 113.98L118.78 113.98Q122.94 113.98 124.68 115.75Q126.43 117.52 126.43 120.43L126.43 120.43L126.43 127.55Q126.43 130.46 124.68 132.23Q122.94 134 118.78 134L118.78 134L111.87 134Q107.71 134 105.96 132.23Q104.22 130.46 104.22 127.55L104.22 127.55L104.22 107.06Q104.22 104.15 105.96 102.38Q107.71 100.62 111.87 100.62L111.87 100.62L118.26 100.62Q122.42 100.62 124.16 102.38Q125.91 104.15 125.91 107.06L125.91 107.06L125.91 110.81L117.07 110.81L117.07 108.26Q117.07 107.69 116.75 107.40Q116.44 107.12 115.77 107.12L115.77 107.12L114.36 107.12Q113.69 107.12 113.37 107.40Q113.06 107.69 113.06 108.26ZM117.59 126.36L117.59 126.36L117.59 121.36Q117.59 120.79 117.27 120.51Q116.96 120.22 116.29 120.22L116.29 120.22L113.06 120.22L113.06 126.36Q113.06 126.93 113.37 127.21Q113.69 127.50 114.36 127.50L114.36 127.50L116.29 127.50Q116.96 127.50 117.27 127.21Q117.59 126.93 117.59 126.36Z" fill="#a78bfa" />
+    <text x="90" y="168" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#a9a3c4" font-weight="700">CONTRIBUTIONS</text>
+    <text x="90" y="188" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#847ea0">since Nov 10, 2024</text></g>
+  <g class="row" style="animation-delay:.3s">
+    <g class="pulse"><circle cx="240" cy="111" r="45" fill="none" stroke="#c6ff3d" stroke-width="3" stroke-opacity="0.8"/></g>
+    
+    <path d="M237.69 102.30L237.69 102.30L237.69 106.08L227.19 106.08L227.19 100.92Q227.19 97.56 229.20 95.52Q231.21 93.48 236.01 93.48L236.01 93.48L243.39 93.48Q248.19 93.48 250.20 95.52Q252.21 97.56 252.21 100.92L252.21 100.92L252.21 105.60Q252.21 107.94 251.64 109.68Q251.07 111.42 249.33 112.38L249.33 112.38Q251.07 113.16 251.64 114.72Q252.21 116.28 252.21 118.56L252.21 118.56L252.21 124.56Q252.21 127.92 250.20 129.96Q248.19 132 243.39 132L243.39 132L236.01 132Q231.21 132 229.20 129.96Q227.19 127.92 227.19 124.56L227.19 124.56L227.19 119.40L237.69 119.40L237.69 123.18Q237.69 123.84 238.05 124.17Q238.41 124.50 239.19 124.50L239.19 124.50L240.39 124.50Q241.17 124.50 241.53 124.17Q241.89 123.84 241.89 123.18L241.89 123.18L241.89 117.24Q241.89 116.58 241.53 116.25Q241.17 115.92 240.39 115.92L240.39 115.92L235.53 115.92L235.53 109.02L240.39 109.02Q241.17 109.02 241.53 108.69Q241.89 108.36 241.89 107.70L241.89 107.70L241.89 102.30Q241.89 101.64 241.53 101.31Q241.17 100.98 240.39 100.98L240.39 100.98L239.19 100.98Q238.41 100.98 238.05 101.31Q237.69 101.64 237.69 102.30Z" fill="#f1eefc" />
+    <text x="240" y="180" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#c6ff3d" font-weight="700">CURRENT STREAK</text>
+    <text x="240" y="200" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#847ea0">Nov 11 – now</text>
+  </g>
+  <g class="row" style="animation-delay:.45s">
+    <path d="M374.14 100.62L387.92 100.62L387.92 134L378.82 134L378.82 107.12L374.14 107.12L374.14 100.62ZM390.94 100.62L404.72 100.62L404.72 134L395.62 134L395.62 107.12L390.94 107.12L390.94 100.62Z" fill="#ff3d9a" />
+    <text x="390" y="168" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#a9a3c4" font-weight="700">LONGEST STREAK</text>
+    <text x="390" y="188" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#847ea0">Jul 12 – Jul 22, 2025</text></g>
+</svg>

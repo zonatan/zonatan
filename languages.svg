@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-label="Top languages">
+  
+  <style>
+    .beam { animation: beam 6s linear infinite; }
+    @keyframes beam { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -1420; } }
+    .row { animation: rise .6s cubic-bezier(.22,1,.36,1) backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
+    .grow { transform-box: fill-box; transform-origin: left center; animation: grow 1.1s cubic-bezier(.22,1,.36,1) backwards; }
+    @keyframes grow { from { transform: scaleX(0); } }
+    .blink { animation: blink 1.6s steps(2, start) infinite; }
+    @keyframes blink { 50% { opacity: .15; } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 50% { transform: scale(1.08); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#18152a"/>
+      <stop offset="1" stop-color="#100e1a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0" r="0.9">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="url(#panel)"/>
+  <path d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="url(#glow)"/>
+  <path d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="none" stroke="#5b3fb8" stroke-opacity="0.7"/>
+  <path class="beam" d="M16 1 H479 V214 L464 229 H1 V16 Z" fill="none" stroke="#c6ff3d" stroke-width="1.5"
+        stroke-dasharray="90 1420" stroke-linecap="round"/>
+  <path d="M6 20 V6 H20" stroke="#c6ff3d" stroke-width="2" fill="none"/><path d="M474 20 V6 H460" stroke="#c6ff3d" stroke-width="2" fill="none"/>
+  <text x="24" y="34" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.4" fill="#c6ff3d" font-weight="700">LOADOUT // LANGUAGES</text>
+  <text x="456" y="34" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#847ea0">TOP 6</text>
+  <path d="M24 46 H456" stroke="#5b3fb8" stroke-opacity="0.45"/>
+  <rect class="grow" style="animation-delay:0.1s" x="24.0" y="64" width="117.2" height="10" fill="#c6ff3d"/><rect class="grow" style="animation-delay:0.18s" x="143.2" y="64" width="117.1" height="10" fill="#a78bfa"/><rect class="grow" style="animation-delay:0.26s" x="262.3" y="64" width="82.1" height="10" fill="#ff3d9a"/><rect class="grow" style="animation-delay:0.33999999999999997s" x="346.3" y="64" width="67.7" height="10" fill="#3dd6ff"/><rect class="grow" style="animation-delay:0.42000000000000004s" x="416.0" y="64" width="21.1" height="10" fill="#ffc53d"/><rect class="grow" style="animation-delay:0.5s" x="439.1" y="64" width="14.9" height="10" fill="#a9a3c4"/>
+  <g class="row" style="animation-delay:0.3s">
+        <rect x="24" y="98" width="10" height="10" fill="#c6ff3d"/>
+        <text x="44" y="108" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#f1eefc">Blade</text>
+        <text x="228" y="108" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#847ea0">27.6%</text>
+      </g><g class="row" style="animation-delay:0.38s">
+        <rect x="252" y="98" width="10" height="10" fill="#a78bfa"/>
+        <text x="272" y="108" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#f1eefc">JavaScript</text>
+        <text x="456" y="108" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#847ea0">27.6%</text>
+      </g><g class="row" style="animation-delay:0.45999999999999996s">
+        <rect x="24" y="134" width="10" height="10" fill="#ff3d9a"/>
+        <text x="44" y="144" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#f1eefc">PHP</text>
+        <text x="228" y="144" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#847ea0">19.5%</text>
+      </g><g class="row" style="animation-delay:0.54s">
+        <rect x="252" y="134" width="10" height="10" fill="#3dd6ff"/>
+        <text x="272" y="144" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#f1eefc">TypeScript</text>
+        <text x="456" y="144" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#847ea0">16.1%</text>
+      </g><g class="row" style="animation-delay:0.62s">
+        <rect x="24" y="170" width="10" height="10" fill="#ffc53d"/>
+        <text x="44" y="180" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#f1eefc">HTML</text>
+        <text x="228" y="180" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#847ea0">5.3%</text>
+      </g><g class="row" style="animation-delay:0.7s">
+        <rect x="252" y="170" width="10" height="10" fill="#a9a3c4"/>
+        <text x="272" y="180" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#f1eefc">CSS</text>
+        <text x="456" y="180" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#847ea0">3.9%</text>
+      </g>
+</svg>
